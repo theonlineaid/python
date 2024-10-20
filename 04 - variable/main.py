@@ -11,16 +11,16 @@ VAR123 = "John"        # Uppercase letters with numbers (often used for constant
 
 # Wrong naming conventions
 
-var@ = "John"          # Special characters like @ are not allowed
-my#var = "John"        # Special characters like # are not allowed
-!myvar = "John"        # Special characters like ! are not allowed
-my*var = "John"        # Special characters like * are not allowed
-my%var = "John"        # Special characters like % are not allowed
-my+var = "John"        # Special characters like + are not allowed
-my.var = "John"        # Dot notation is not allowed for variable names (reserved for attribute access)
-None = "John"          # Using Python keywords as variable names is not allowed
-True = "John"          # Using Python keywords as variable names is not allowed
-class = "John"         # Using Python keywords as variable names is not allowed
-return = "John"        # Using Python keywords as variable names is not allowed
-my var = "John"        # Spaces are not allowed in variable names
-123var = "John"        # Variable names cannot start with numbers
+# var@ = "John"          # Special characters like @ are not allowed
+# my#var = "John"        # Special characters like # are not allowed
+# !myvar = "John"        # Special characters like ! are not allowed
+# my*var = "John"        # Special characters like * are not allowed
+# my%var = "John"        # Special characters like % are not allowed
+# my+var = "John"        # Special characters like + are not allowed
+# my.var = "John"        # Dot notation is not allowed for variable names (reserved for attribute access)
+# None = "John"          # Using Python keywords as variable names is not allowed
+# True = "John"          # Using Python keywords as variable names is not allowed
+# class = "John"         # Using Python keywords as variable names is not allowed
+# return = "John"        # Using Python keywords as variable names is not allowed
+# my var = "John"        # Spaces are not allowed in variable names
+# 123var = "John"        # Variable names cannot start with numbers
