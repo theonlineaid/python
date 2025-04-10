@@ -1,0 +1,12 @@
+// function reverseString(str) {
+//     return [...String(str)].reverse().join('');
+//     }
+//     console.log(reverseString('string'))
+//     console.log(reverseString(123));
+
+
+Sort topics
+String reverse topice
+Array destructure
+Object Destructure
+Rest vs Sprate 
