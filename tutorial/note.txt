@@ -4,7 +4,7 @@
 //     console.log(reverseString('string'))
 //     console.log(reverseString(123));
 
-
+PS1="\[\e[1;32m\]tutorial\[\e[0m\]$ "
 Sort topics
 String reverse topice
 Array destructure
